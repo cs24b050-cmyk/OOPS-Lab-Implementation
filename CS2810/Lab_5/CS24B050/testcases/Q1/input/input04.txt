@@ -1,0 +1,6 @@
+P3
+trades.csv
+BUY Alice AAPL 100 150.00
+SELL Bob AAPL 50 149.00
+SELL Charlie AAPL 50 148.00
+BUY David AAPL 75 149.50

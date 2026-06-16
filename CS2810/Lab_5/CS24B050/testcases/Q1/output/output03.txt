@@ -1,0 +1,6 @@
+Aisha 10
+Karan 20
+Meera 5
+Nikhil 100
+Priya 15
+Arjun 50

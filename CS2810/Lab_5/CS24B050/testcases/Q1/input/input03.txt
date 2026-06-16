@@ -1,0 +1,8 @@
+P2
+./testcases/Q1/input_csv/global_orders.csv
+Aisha
+Karan
+Meera
+Nikhil
+Priya
+Arjun

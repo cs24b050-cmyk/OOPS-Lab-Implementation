@@ -1,0 +1,4 @@
+AMZN 2
+GOOGL 2
+HCL 1
+INFY 1

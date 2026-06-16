@@ -1,0 +1,4 @@
+Ticker,Seller,Buyer,Qty,Price,Time
+INFY,Trader3,Trader2,50,2500.00,0
+INFY,Trader3,Trader1,30,2500.00,1
+TCS,Trader4,Trader5,50,3100.00,2
